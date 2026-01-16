@@ -5,9 +5,11 @@ Machine test
 It fetches sales data from an endpoint then stores into a local sqlite database
 
 ## How to run
-1. Install dependencies:
+1. Install node on your device
+2. Clone the repo
+3. Install dependencies:
    npm install
-2. Start server:
+4. Start server:
    npm start
 
 ## Working 
